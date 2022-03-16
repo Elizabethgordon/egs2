@@ -4,7 +4,9 @@ body {
   font-family: Merriweather;
   background-color: #white;
   top-margin:0;
+  color:#40514E;
 }
+  
 .top-container {
   background-color: #CDF0EA;
   position: relative;
@@ -15,7 +17,7 @@ body {
 }
 .middle-container {
   background-color: #white;
-  margin: 100px;
+  margin: 100px 0;
 }
 .skill-row1 {
   height: 200px;
@@ -45,12 +47,14 @@ h1 {
     font-size: 90px;
     color: #66BFBF;
     line-height: 2;
+    margin:50pxauto 0 auto;
 }
 h2 {
   font-family: Montserrat,sans-serif;
   color: #66BFBF;
   font-weight: normal;
-}
+  font-size:5.625rem:}
+  padding-bottom:10px;
 h3 {
   font-family:Montserrat,sans-serif;
   color:#11999E;
